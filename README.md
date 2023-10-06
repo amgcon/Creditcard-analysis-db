@@ -108,6 +108,11 @@ Users are able to ask questing relating to the table: Financial data. This can b
 
 The interactive Q&A allows averages and sums to be computed. The visualization of the data allows for easier analysis based on specific filters.
 
-Problem statement analysis
-CONCLUSION
-Thank you for reading!
+### CONCLUSION
+
+In conclusion, the data has been visualized in an interactive user friendly format. The problem statement has been addressed.
+The main spending categories are visualized using pie charts, along with the most frequently transacted vendors. Spending habits are displayed and can be navigated by date to view the Debit and credit values.
+
+Therefore, users can gain insight on spending habits based on data to make data driven decisions for short-term and long term financial goals. 
+
+#### Thank you for reading!
